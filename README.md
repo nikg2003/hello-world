@@ -1,4 +1,4 @@
 # hello-world
 Test 1.
 
-I have no facking idea wtf im doing.
+I have no freaking idea what im doing.
